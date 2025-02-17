@@ -52,8 +52,6 @@ I’ve earned some cool badges to showcase my progress. Here’s a snapshot:
 ### 🖥️ **GitHub Stats:**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souzagbruno10&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&border_radius=10&text_color=00FF00)
 
-### 💾 **Streak Stats (Contribuições Diárias):**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souzagbruno10&theme=dark&border_radius=10&text_color=00FF00)
 
 ### 🖱️ **Top Languages (Linguagens Mais Usadas):**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souzagbruno10&layout=compact&theme=dark&border_radius=10&text_color=00FF00)
