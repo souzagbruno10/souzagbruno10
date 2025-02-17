@@ -29,7 +29,6 @@ I’ve earned some cool badges to showcase my progress. Here’s a snapshot:
 ---
 
 ## 🗣️ **Let’s Connect!**
-- **📧 Email**: [souzagbruno10@gmail.com](mailto:souzagbruno10@gmail.com)
 - **🔗 LinkedIn**: [Bruno Gomes de Souza](https://www.linkedin.com/in/bruno-gomes-de-souza-350830349/)
 
 ---
