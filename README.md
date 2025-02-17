@@ -8,8 +8,7 @@
 ## My Badges
 Here are some of the badges I've earned during my studies:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f1b8acba-f8c2-4b31-aab7-df80cd6117ba" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Credly Badge](https://www.credly.com/badges/f1b8acba-f8c2-4b31-aab7-df80cd6117ba/public_url)
 
 ## Goals
 - 🎯 Become proficient in cybersecurity.
