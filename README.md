@@ -1,8 +1,5 @@
 # 👾 **Bruno Souza** - Cybersecurity Enthusiast 💻
 
-> "Code is my second language, cybersecurity is my mission."  
-> _From Brazil 🇧🇷 with a passion for tech and security._
-
 ---
 
 ## 🚀 **About Me**
@@ -27,7 +24,7 @@ I’ve earned some cool badges to showcase my progress. Here’s a snapshot:
 ---
 
 ## 🔧 **Projects**
-- **💛 Website Development**: Created a website for my daughter’s business: [Studio Sairá](https://www.studiosairaf.com.br)
+- **💛 Website Development**: Created a website for my daughter’s business: [Studio Sairaf](https://www.studiosairaf.com.br)
 
 ---
 
