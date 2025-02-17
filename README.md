@@ -8,7 +8,7 @@
 ## My Badges
 Here are some of the badges I've earned during my studies:
 
-[![Credly Badge](https://www.credly.com/badges/f1b8acba-f8c2-4b31-aab7-df80cd6117ba/public_url)
+[Credly Badge](https://www.credly.com/badges/f1b8acba-f8c2-4b31-aab7-df80cd6117ba/public_url)
 
 ## Goals
 - 🎯 Become proficient in cybersecurity.
