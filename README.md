@@ -1,4 +1,10 @@
-## 🧑🏻‍💻 Just Real Projects !
+## 🧑🏻‍💻 Only Real Projects | Somente Projetos Reais! 
+
+🇬🇧 This GitHub is going against the grain of most tech students' repositories. Here, you’ll find real projects that make a difference in people’s lives. No calculator apps, useless CRUDs, or video tutorial mini-games.
+Welcome!
+
+🇧🇷 Este github está na contramão da maior parte dos repositórios dos estudantes de tecnologia. Aqui voce encontrará projetos reais que impactam a vida das pessoas. Nada de repositórios de projetos de calculadoras, cruds inúteis ou joguinhos de videos tutoriais do youtube.
+Sejam bem-vindos!
 
 ## 💻 Java and Kotlin Developer
 -  Web and Mobile Development. I'm a networking and cybersecurity enthusiast as well.
@@ -9,15 +15,5 @@
 
 ---
 
-
-
-## 📊 **GitHub Metrics**
-
-### 🖥️ **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souzagbruno10&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&border_radius=10&text_color=00FF00)
-
-
-### 🖱️ **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souzagbruno10&layout=compact&theme=dark&border_radius=10&text_color=00FF00)
 
 
