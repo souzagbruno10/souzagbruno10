@@ -2,8 +2,8 @@
 
 ## 💻 Java and Kotlin Developer 
 I'm a software engineer and this is my github!
-I'm from 🇧🇷 
-☕️ Java was my first programming language
+I'm from 🇧🇷 |
+☕️ Java was my first programming language |
 📱 Mobile is my second passion as well
 
 ## 🧑🏻‍💻 Hobbies 
