@@ -1,7 +1,7 @@
 ## Hello World
 
 ## 💻 Java and Kotlin Developer
-- ** Web and Mobile Development. I'm a networking and cybersecurity enthusiast as well.
+-  Web and Mobile Development. I'm a networking and cybersecurity enthusiast as well.
 
 ## 🔧 **Projects**
 - **💛 Website Development**: Created a website for my daughter’s business: [Studio💛Sairaf](https://www.studiosairaf.com.br)
