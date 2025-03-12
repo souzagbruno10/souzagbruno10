@@ -1,7 +1,13 @@
 ## 🧑🏻‍💻 Only Real Projects | Somente Projetos Reais! 
 
 ## 💻 Java and Kotlin Developer
--  Web and Mobile Development. I'm a networking and cybersecurity enthusiast as well.
+I'm a software engineer and this is my github!
+I'm from 🇧🇷 
+☕️ Java was my first programming language
+📱 Mobile is my second passion as well
+
+## 💻 Hobbies
+- I'm a networking and cybersecurity enthusiast as well.
 
 ## 🔧 **Projects**
 - **💛 Website Development**: Created a website for my daughter’s business: [Studio💛Sairaf](https://www.studiosairaf.com.br)
