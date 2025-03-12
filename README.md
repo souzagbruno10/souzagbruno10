@@ -3,7 +3,7 @@
 🇬🇧 This GitHub is going against the grain of most tech students' repositories. Here, you’ll find real projects that make a difference in people’s lives. No calculator apps, useless CRUDs, repositories from video tutorial mini-games or IA codes.
 Welcome!
 
-🇧🇷 Este github está na contramão da maior parte dos repositórios dos estudantes de tecnologia. Aqui voce encontrará projetos reais que impactam a vida das pessoas. Nada de repositórios de projetos de calculadoras, cruds inúteis ou joguinhos de videos tutoriais do youtube.
+🇧🇷 Este github está na contramão da maior parte dos repositórios dos estudantes de tecnologia. Aqui voce encontrará projetos reais que impactam a vida das pessoas. Nada de repositórios de projetos de calculadoras, cruds inúteis, joguinhos de videos tutoriais do youtube ou códigos gerados por IA.
 Sejam bem-vindos!
 
 ## 💻 Java and Kotlin Developer
