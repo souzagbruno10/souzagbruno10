@@ -1,7 +1,7 @@
 ## Hello World!
 
-## 💻 Java and Kotlin Developer 
-I'm a software engineer and this is my github!
+## 💻 Student
+Welcome to my github!
 I'm from 🇧🇷 |
 ☕️ Java was my first programming language |
 📱 Mobile is my second passion as well
