@@ -2,7 +2,6 @@
 
 ## 💻 Student
 Welcome to my github!
-I'm just a student looking for more knowledge 
 
 ## 🧑🏻‍💻 Hobbies 
 Video Games and Books
