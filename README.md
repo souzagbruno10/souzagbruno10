@@ -1,4 +1,4 @@
-## Hello World!
+## Hello World :]
 
 ## 💻 Student 
 This github it's just a part of my studies on programming so that this github is not about professional projects but it's just serve for my own learning like hands-on repositorys.  
