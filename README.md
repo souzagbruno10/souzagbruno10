@@ -7,7 +7,7 @@ Welcome to my github! This github it's just a part of my studies on programming 
 Programming | Network | CyberSecurity
 
 ## 🔧 **Projects**
-- **💛 Website Development**: Created a website for my daughter’s business to exercise HTML, CSS and some Node Js runs on backend: [Studio💛Sairaf](https://www.studiosairaf.com.br)
+- **💛 Website Development**: Created a website for my daughter’s business to exercise HTML and CSS: [Studio💛Sairaf](https://www.studiosairaf.com.br)
 ---
 - [404NotFound - Programming on Low Level]( https://www.youtube.com/@404NotFound-z7g)
    - It's my channel on youtube about low level programming.
