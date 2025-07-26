@@ -7,7 +7,7 @@ Welcome to my github! This github it's just a part of my studies on programming 
 Programming | Network | CyberSecurity
 
 ## 🔧 **Projects**
-- **💛 Website Development**: Created a website for my daughter’s business: [Studio💛Sairaf](https://www.studiosairaf.com.br)
+- **💛 Website Development**: Created a website for my daughter’s business to exercise HTML, CSS and some Node Js runs on backend: [Studio💛Sairaf](https://www.studiosairaf.com.br)
 ---
 
 
