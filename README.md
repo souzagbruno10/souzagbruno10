@@ -1,7 +1,7 @@
 ## Hello World :]
 
 ## 💻 101
-This github it's a part of my studies on programming so that i use this just for my own learning like hands-on repositorys.  
+This github it's a part of my studies on programming so that i use this repositories like a diary about my own progress.
 
 ## 🧑🏻‍💻 Preferences 
 Programming | Network | CyberSecurity
